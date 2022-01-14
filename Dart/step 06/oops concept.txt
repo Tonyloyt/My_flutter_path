@@ -1,0 +1,48 @@
+Dart - is a full object oriented programming language
+support - classes,object,inheritance,polymophism,interface and abstraction
+
+class: blueprint of the object | object constructors.
+can contain fields,function,constructors etc
+
+An object: 
+is a variable or instance of the class used to access the class's properties.
+
+interfaces:  you can say as blueprint of the class.
+we declare methods or variables inside the interface just like the class but in interface only abstract declaration of the methods is provided.
+It is basically used for data hiding.
+
+
+Abstract class:  a class that contain one or more abstract method.
+declared with 'abstract' keyword.
+
+this keyword:
+used to refer the current class object. It indicates the current instance of the class,method, or constructor.
+
+It eliminate the uncertainty btn class attributes and the parameter names are the same.
+
+
+types of variables in dart:
+1. Local variables - defined in the methods, constructors or blocks.
+2. Class variable - known as the static variable
+3. instance variable - are known as non static , declared with out static keyword.
+
+Super kerword:
+ is used to denote the instant parent class object of the current child class.
+ is used to invoke superclass methods, superclass constructor in its child class.
+ main objective is to remove the confusion between parent class and subclass with the same method name.
+
+
+Inheritance:
+- process of deriving the prperties and characteristics of another class.
+- we can create another class from an existing class.
+- enhance reuse of behaviour and properties of the privious class.
+
+Parent class | superclass | base class
+Child class | derived class | sub class 
+
+Types of inheritance:
+- single inheritance - {one parent one child}
+- Multiple inheritance - { }
+- Multilevel inheritance - { child class is inherited by another child or creates the chaining of inheritance.}
+- hierarchical inheritance  - { two or more classes inherit a single class eg one base class with two child both inherit from base class}
+ 
