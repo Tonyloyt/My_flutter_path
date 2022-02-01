@@ -16,7 +16,7 @@ i_am_rich app display centered diamond image  with background
 - working with stateles widgets
 
 <!-- ![Finished App](https://github.com/Tonyloyt/My_flutter_path/tree/main/images/iamrich.gif) -->
-![Finished App](https://github.com/Tonyloyt/My_flutter_path/tree/main/images/iamrich.gif)
+![Finished App](https://github.com/Tonyloyt/My_flutter_path/blob/main/images/iamrich.gif)
 
 
 
