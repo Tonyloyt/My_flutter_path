@@ -1,6 +1,6 @@
 # i_am_rich
 
-My First flutter App to develop in (my flutter learning path)[https://github.com/Tonyloyt/My_flutter_path]
+My First flutter App to develop in [my flutter learning path](https://github.com/Tonyloyt/My_flutter_path)
 
 ## App Objectives
 The App involves only Statetless widget.
